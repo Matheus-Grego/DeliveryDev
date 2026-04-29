@@ -1,6 +1,6 @@
 namespace Delivery.Core.Entities;
 
-public class RestaurantCategory
+public class RestaurantCategory : BaseEntity
 {
-    
+    public string Description { get; set; }
 }

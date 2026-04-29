@@ -1,6 +1,6 @@
 namespace Delivery.Core.Entities;
 
-public class DeliveryPerson
+public class DeliveryPerson : BaseEntity
 {
     
 }

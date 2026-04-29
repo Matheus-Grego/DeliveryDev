@@ -1,6 +1,6 @@
 namespace Delivery.Core.Entities;
 
-public class Costumer
+public class Costumer : BaseEntity
 {
     
 }

@@ -1,6 +1,6 @@
 namespace Delivery.Core.Entities;
 
-public class Order
+public class Order : BaseEntity
 {
     
 }
